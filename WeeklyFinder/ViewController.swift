@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  WeeklyFinder
-//  Created by Егор Желтоножский on 4/8/20.
+//  Created by Егор Желтоножский on 4/8/20
 //  Copyright © 2020 Егор Желтоножский. All rights reserved.
 //
 
